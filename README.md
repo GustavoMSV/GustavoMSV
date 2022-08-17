@@ -1,10 +1,10 @@
-## Hello World!! 
+## Hello World!!👋🌎 
 > Information:
 ```CSS  
-Console.WriteLine("Name: Gustavo Moreno");   
+Console.WriteLine("Name: Gustavo Moreno 🧑‍💻");   
 Console.WriteLine("Studying: Analysis and Systems Development 📝");   
-Console.WriteLine("Learning: C#, SQL, CSS, HTML e JavaScript 💻");   
-Console.WriteLine("Contact: gustavomorenosiqueira86@gmail.com 👨🏻‍💻");    
+Console.WriteLine("Learning: C#, SQL, CSS, HTML e JavaScript 👨‍💻");   
+Console.WriteLine("Contact: gustavomorenosiqueira86@gmail.com 📧");    
 Console.WriteLine("\n\nThanks for reading, Tap any key to continue...\n\n\n");
 ```
 > Abaut me:
