@@ -7,6 +7,8 @@ Console.WriteLine("Studying: Analysis and Systems Development 📝");
 Console.WriteLine("Working: Mining Assistant ⚒");
 Console.WriteLine("\n\nThanks for reading, Tap any key to continue...\n\n\n");
 ```
+
+### Learning:
 <div style="display: inline_block"><br>
    <img align="center" alt="Gustavo-C#" height="40" widht="40" src="https://cdn.worldvectorlogo.com/logos/c--4.svg">
    <img align="center" height="40" widht="40" src="https://icons-for-free.com/iconfiles/png/512/development+logo+mysql+icon-1320184807686758112.png">
@@ -24,8 +26,8 @@ Console.WriteLine("\n\nThanks for reading, Tap any key to continue...\n\n\n");
 
 <div>
    <a href="https://github.com/GustavoMSV">
-   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=GustavoMSV&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-   <img width="47.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoMSV&layout=compact&langs_count=16&theme=dracula"/>
+   <img width="100%" src="https://github-readme-stats.vercel.app/api?username=GustavoMSV&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+   <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoMSV&layout=compact&langs_count=16&theme=dracula"/>
 </div>
    
 ---
