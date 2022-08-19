@@ -33,7 +33,7 @@ Console.WriteLine("\n\nThanks for reading, Tap any key to continue...\n\n\n");
 #### Contact
 **[<img src="https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" />](https://www.linkedin.com/in/gustavo-moreno-5803a0229/)** **[<img src= "https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>](https://gustavomsv.github.io/#home)** **[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcRzBWWrFZfTJxhqxtxxQKbrkrvcwwTCLmFSgrCqkjGNkHbTGvlbWGDjfxJqlVcbZWSQMBkDs)** **[<img src= "https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>](https://wa.me/+5511997868798)**
    
-![Snake animation](https://github.com/GustavoMSV/GustavoMSV/blob/output/github-contribution-grid-snake.svg) b 
+![Snake animation](https://github.com/GustavoMSV)
 
 <!---
 GustavoMSV/GustavoMSV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
