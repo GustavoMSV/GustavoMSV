@@ -26,8 +26,8 @@ Console.WriteLine("\n\nThanks for reading, Tap any key to continue...\n\n\n");
 
 <div>
    <a href="https://github.com/GustavoMSV">
-   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=GustavoMSV&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-   <img width="47.4%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoMSV&layout=compact&langs_count=16&theme=dracula"/>
+   <img width="47.9%" src="https://github-readme-stats.vercel.app/api?username=GustavoMSV&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+   <img width="47.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoMSV&layout=compact&langs_count=16&theme=dracula"/>
 </div>
    
 ---
@@ -38,7 +38,7 @@ Console.WriteLine("\n\nThanks for reading, Tap any key to continue...\n\n\n");
 
 
 
-![snake gif](https://github.com/GustavoMSV/GustavoMSV/blob/output/github-contribution-grid-snake.svg) 
+![snake gif](https://github.com/GustavoMSV/GustavoMSV/blob/output/github-contribution-grid-snake.svg). 
 
 <!---
 GustavoMSV/GustavoMSV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
