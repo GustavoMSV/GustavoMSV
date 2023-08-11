@@ -4,7 +4,7 @@
 Console.WriteLine("Name: Gustavo Moreno 🧑‍💻");  
 Console.WriteLine("Age: 22 🚀"); 
 Console.WriteLine("Studying: Analysis and Systems Development 📝");
-Console.WriteLine("Working: Tec. de Redes");
+Console.WriteLine("Working: Analista de Contratos");
 Console.WriteLine("\n\nThanks for reading, Tap any key to continue...\n\n\n");
 ```
 
