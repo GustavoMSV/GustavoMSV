@@ -2,9 +2,9 @@
 > Information:
 ```CSS  
 Console.WriteLine("Name: Gustavo Moreno 🧑‍💻");  
-Console.WriteLine("Age: 22 🚀"); 
-Console.WriteLine("Studying: Analysis and Systems Development 📝");
-Console.WriteLine("Working: Analista de Contratos");
+Console.WriteLine("Age: 23 🚀"); 
+Console.WriteLine("Graduated: Analysis and Systems Development 🎓💼");
+Console.WriteLine("Working: Analista de Dados Pleno");
 Console.WriteLine("\n\nThanks for reading, Tap any key to continue...\n\n\n");
 ```
 
