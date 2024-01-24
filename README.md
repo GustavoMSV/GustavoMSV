@@ -3,8 +3,8 @@
 ```CSS  
 Console.WriteLine("Name: Gustavo Moreno 🧑‍💻");  
 Console.WriteLine("Age: 23 🚀"); 
-Console.WriteLine("Graduated: Analysis and Systems Development 🎓💼");
-Console.WriteLine("Working: Data Analyst - Movida Aluguel de Carros");
+Console.WriteLine("Graduated: Analysis and Systems Development (UMC) 🎓💼");
+Console.WriteLine("Working: Customer Success Analyst at Stark Bank");
 Console.WriteLine("\n\nThanks for reading, Tap any key to continue...\n\n\n");
 ```
 
@@ -22,7 +22,7 @@ Console.WriteLine("\n\nThanks for reading, Tap any key to continue...\n\n\n");
 
 ---
 ### About me:
->As a Data Analyst at Movida, I perform duties as an RPA developer, implementing process automations to optimize company operations. My primary tools include Python, NodeJS, and VBA for the efficient creation of automations. Additionally, I work in the field of Business Intelligence, where I build foundational databases for strategic analysis and drive company growth. I also engage in creating dashboards using platforms such as Tableau and PowerBI, providing valuable insights for decision-making. Always driven by curiosity to learn new programming nuances, I remain open to new knowledge and opportunities that can propel both the organization I work for and enhance my professional portfolio. I am continuously seeking to enhance my skills and explore new technologies, eagerly embracing challenges that contribute to my growth and the success of the team.
+>Constantly evolving and learning, looking for the best version of myself day after day, giving my best in every area of ​​life. Always curious to learn new things that add value to knowledge, seeking to make the most of every opportunity I receive to create concrete paths to success. Ability to adapt to new environments and routine changes, great ease in learning and developing new skills, great relationships with teamwork and always aiming to have a proactive and positive impact on my sector and the company.
  
 ---
     
